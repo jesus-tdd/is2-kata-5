@@ -1,5 +1,10 @@
 package software.ulpgc.kata;
 
+import software.ulpgc.kata.io.FactLoader;
+import software.ulpgc.kata.io.RandomFactAdapter;
+import software.ulpgc.kata.io.RandomFactDeserializer;
+import software.ulpgc.kata.io.RandomFactReader;
+
 import java.io.IOException;
 
 public class Main {

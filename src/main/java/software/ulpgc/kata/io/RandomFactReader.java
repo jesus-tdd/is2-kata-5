@@ -1,4 +1,4 @@
-package software.ulpgc.kata;
+package software.ulpgc.kata.io;
 
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;

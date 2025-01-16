@@ -1,6 +1,7 @@
-package software.ulpgc.kata;
+package software.ulpgc.kata.io;
 
 import com.google.gson.Gson;
+import software.ulpgc.kata.io.pojo.RandomFactGetResponse;
 
 public class RandomFactDeserializer implements FactDeserializer {
     @Override

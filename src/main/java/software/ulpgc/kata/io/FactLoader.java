@@ -1,4 +1,6 @@
-package software.ulpgc.kata;
+package software.ulpgc.kata.io;
+
+import software.ulpgc.kata.model.Fact;
 
 import java.io.IOException;
 
